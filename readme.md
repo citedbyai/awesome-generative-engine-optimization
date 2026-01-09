@@ -122,6 +122,8 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [GEO on ACM Digital Library](https://dl.acm.org/doi/10.1145/3637528.3671900) - Peer-reviewed publication with full methodology. *Provides testing framework for measuring GEO success across different content domains and query types.*.
 - [Inside AI Search Ranking Factors](https://pallasadvisory.com/2025/03/14/inside-ai-search-decoding-how-chatgpt-perplexity-rank-your-content/) - Pallas Advisory's reverse engineering of AI ranking (March 2025). *Offers insights on how ChatGPT and Perplexity select and rank sources in their responses.*.
 - [AI Platform Citation Patterns](https://www.tryprofound.com/blog/ai-platform-citation-patterns) - Analysis of how ChatGPT, Google AI Overviews, and Perplexity cite sources differently. *Wikipedia dominates ChatGPT at 47.9% of top citations; Reddit appears heavily in Gemini and Perplexity.*.
+- [Conductor 2026 AEO/GEO Benchmarks Report](https://www.conductor.com/academy/aeo-geo-benchmarks-report/) - Industry's first large-scale AEO/GEO analysis across 13,770 domains, 21.9M searches, and 17M AI responses. *Key finding: ChatGPT drives 87.4% of AI referral traffic; AI referral conversions are 2× higher than traditional sources.*.
+- [State of AI Search Optimization 2026](https://www.growth-memo.com/p/state-of-ai-search-optimization-2026) - Kevin Indig's comprehensive analysis of LLM citation patterns and visibility factors. *Reports 24% of ChatGPT responses generated without fetching online content; content under 3 months old is 3× more likely to be cited.*.
 
 ### Knowledge Conflicts & Retrieval
 
@@ -152,6 +154,7 @@ Major SEO platforms that have added AI search optimization capabilities:
 
 #### Adoption & Directories
 - [LLMS.txt Adoption Research Report 2025](https://www.rankability.com/data/llms-txt-adoption/) - Updated monthly tracking showing 784+ websites implementing llms.txt/llms-full.txt (0.3% of top 1,000 websites as of June 2025).
+- [Google Adds llms.txt to Search Central Docs](https://www.omnius.so/industry-updates/google-adds-llms-txt-to-docs-after-publicly-dismissing-it) - On December 3, 2025, Google quietly added then removed llms.txt from Search Central documentation the same day, despite previously dismissing the standard.
 - [Companies Using llms.txt](https://llms-txt.io/blog/companies-using-llms-txt-examples) - Implementations by Zapier, Stripe, Cloudflare, Anthropic, Vercel, Supabase, ElevenLabs.
 - [Who is Using llms.txt?](https://www.llms-text.com/blog/sites-using-llms-txt) - Examples and adoption patterns across AI/ML, Developer Tools, and SaaS sectors.
 - [llms.txt Directory](https://directory.llmstxt.cloud/) - Community-driven directory of implementations.
@@ -272,6 +275,9 @@ These platforms are frequently cited by AI engines - building presence here impr
 - [63% of Websites Receive AI Traffic](https://ahrefs.com/blog/ai-traffic-study/) - 3,000 site study.
 - [AI Traffic Surges 527% in 2025](https://www.superprompt.com/blog/ai-traffic-up-527-percent-how-to-get-cited-by-chatgpt-claude-perplexity-2025) - Analysis from 400+ sites on citation patterns.
 - [98+ GEO Statistics for 2025](https://marketingltb.com/blog/statistics/generative-engine-optimization-statistics/) - Comprehensive data compilation.
+- [AI Overviews Surged Then Pulled Back in 2025](https://searchengineland.com/google-ai-overviews-surge-pullback-data-466314) - AI Overviews peaked at ~25% of queries in July 2025, fell back to <16% by November.
+- [Google December 2025 Core Update Analysis](https://www.gsqi.com/marketing-blog/google-december-2025-broad-core-update-analysis-findings/) - 18-day rollout (Dec 11-29, 2025) with significant AI-driven content ranking shifts.
+- [How Google Search is Changing - January 2026](https://www.digitalthirdcoast.com/blog/ai-mode-use-trends) - Navigational AI Overviews grew from <1% to >10% in 2025; ads alongside AI Overviews rose from ~3% to ~40%.
 
 ### GEO Service Providers
 
